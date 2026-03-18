@@ -2,7 +2,7 @@ TO: talvikkitie@bistroliekki.fi
 SUBJECT: Bistro Liekki Talvikkitie — uusi verkkosivusto valmis + lasku (399€)
 PREVIEW: https://yassinfennir.github.io/bistro-liekki-talvikkitie/
 INVOICE: YEF-2026-033
-DATE: 2026-03-18T03:16:21.040Z
+DATE: 2026-03-18T03:37:09.489Z
 
 Hei!
 
@@ -78,4 +78,4 @@ Verkkosivujen suunnittelu ja kehitys
 
 —
 El Fennir Agency | Espoo, Suomi
-30 paivan tyytyväisyystakuu | SSL-suojattu | GDPR-yhteensopiva
+El Fennir Agency

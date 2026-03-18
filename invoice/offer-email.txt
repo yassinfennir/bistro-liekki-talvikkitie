@@ -1,8 +1,8 @@
 TO: talvikkitie@bistroliekki.fi
 SUBJECT: Bistro Liekki Talvikkitie — uusi verkkosivusto valmis + lasku (399€)
-PREVIEW: https://yef-bistro-liekki.netlify.app
+PREVIEW: https://yassinfennir.github.io/bistro-liekki-talvikkitie/
 INVOICE: YEF-2026-027
-DATE: 2026-03-18T02:46:05.448Z
+DATE: 2026-03-18T03:04:31.751Z
 
 Hei!
 
@@ -12,7 +12,7 @@ Tutustuin ravintolanne Bistro Liekki Talvikkitie verkkosivustoon ja huomasin, et
 
 Siksi tein teille ILMAISEKSI esikatselun uudesta, modernista verkkosivustosta:
 
-👉  https://yef-bistro-liekki.netlify.app
+👉  https://yassinfennir.github.io/bistro-liekki-talvikkitie/
 
 Katsokaa rauhassa — tama on tehty juuri teille, eika se maksa mitaan. Halusin nayttaa, milta teidän yrityksenne voi nayttaa verkossa.
 
